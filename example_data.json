@@ -1,0 +1,42 @@
+[
+  {
+    "tema": "Python Best Practices",
+    "popis": "Klíčové postupy pro psaní kvalitního Python kódu",
+    "detail": "PEP 8, type hints, dokumentace, testování, clean code principy, error handling",
+    "tagy": "python, best-practices, coding, dev",
+    "zdroj": "PEP Documentation",
+    "dulezitost": 9
+  },
+  {
+    "tema": "Machine Learning Basics",
+    "popis": "Základní koncepty machine learningu",
+    "detail": "Supervised learning, unsupervised learning, overfitting, validation, cross-validation",
+    "tagy": "ml, ai, learning, data-science",
+    "zdroj": "Stanford Online",
+    "dulezitost": 8
+  },
+  {
+    "tema": "Git Workflow",
+    "popis": "Efektivní správa verzí s Gitem",
+    "detail": "Branching strategies, commit messages, pull requests, merge conflicts, rebase vs merge",
+    "tagy": "git, version-control, teamwork, dev",
+    "zdroj": "GitHub Docs",
+    "dulezitost": 8
+  },
+  {
+    "tema": "API Design",
+    "popis": "Principy návrhu dobrého API",
+    "detail": "RESTful principles, versioning, authentication, rate limiting, documentation",
+    "tagy": "api, design, backend, architecture",
+    "zdroj": "REST API Best Practices",
+    "dulezitost": 7
+  },
+  {
+    "tema": "Docker Containerization",
+    "popis": "Práce s Docker kontejnery",
+    "detail": "Images, containers, compose, networking, volumes, security best practices",
+    "tagy": "docker, devops, containerization, deployment",
+    "zdroj": "Docker Official Docs",
+    "dulezitost": 9
+  }
+]
